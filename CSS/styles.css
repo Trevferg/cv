@@ -1,13 +1,16 @@
 body {
-  background-color: #E4E3E3;
+  background-color: #93E4C1;
+  color: #113C4A;
+  
+  font-family: cambria;
 }
 
 h1 {
-  color: #204051;
+  color: #3BAEA0;
 }
 
 h2 {
-  color: #3B6978;
+  color: #118A7E;
 }
 
 hr {
@@ -27,3 +30,7 @@ img {
   
 }
 
+th {
+  color: #265A5C;
+  
+}
