@@ -1,7 +1,8 @@
 body {
-  background-color: #93E4C1;
-  color: #113C4A;
-  font-family: cambria;
+  background-color: #005555;
+  color: ghostwhite;
+  
+  font-family: sans-serif;
 }
 
 h1 {
@@ -32,4 +33,9 @@ img {
 th {
   color: #265A5C;
   
+}
+
+a {
+  color: black;
+  font-weight: 800;
 }
