@@ -1,33 +1,36 @@
 body {
   background-color: #005555;
   color: ghostwhite;
-  
   font-family: sans-serif;
 }
 
 h1 {
+  
   color: #3BAEA0;
+  text-shadow: 1px 1px 1px #032525;
 }
 
 h2 {
   color: #118A7E;
+  text-shadow: 1px 1px 1px #032525;
 }
 
 hr {
 
+  border-color: gray;
   border-style: none;
   border-top-style: dotted;
   border-width: 5px;
-  border-color: gray;
   width: 5%;
   
 }
 
 img {
-  border-radius: 10px;
-  border-style: solid;
-  border-color: #144272;
   
+  border-color: #265650;
+  border-radius: 30px;
+  border-style: solid;
+  box-shadow: 5px 5px #0f2f2b;
 }
 
 th {
